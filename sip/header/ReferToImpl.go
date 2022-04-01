@@ -2,8 +2,8 @@ package header
 
 import (
 	"bytes"
-	"github.com/use-go/gosips/core"
-	"github.com/use-go/gosips/sip/address"
+	"gitee.com/xppinke/gosips/core"
+	"gitee.com/xppinke/gosips/sip/address"
 )
 
 /**

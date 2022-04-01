@@ -2,7 +2,7 @@ package header
 
 import (
 	"errors"
-	"github.com/use-go/gosips/core"
+	"gitee.com/xppinke/gosips/core"
 	"strings"
 )
 

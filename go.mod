@@ -1,3 +1,3 @@
-module github.com/use-go/gosips
+module github.com/pinke/gosips
 
 go 1.14

@@ -1,6 +1,6 @@
 package header
 
-import "github.com/use-go/gosips/core"
+import "gitee.com/xppinke/gosips/core"
 
 /** The WWWAuthenticate SIP header.
 * @see WWWAuthenticateList SIPHeader which strings these together.

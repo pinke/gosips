@@ -2,7 +2,7 @@ package message
 
 import (
 	"container/list"
-	"github.com/use-go/gosips/sip/header"
+	"gitee.com/xppinke/gosips/sip/header"
 )
 
 /**

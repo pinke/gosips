@@ -10,7 +10,7 @@ package sip
 
 import (
 	"container/list"
-	"github.com/use-go/gosips/sip/message"
+	"gitee.com/xppinke/gosips/sip/message"
 )
 
 /**

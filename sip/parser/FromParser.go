@@ -1,9 +1,9 @@
 package parser
 
 import (
-	"github.com/use-go/gosips/core"
-	"github.com/use-go/gosips/sip/address"
-	"github.com/use-go/gosips/sip/header"
+	"gitee.com/xppinke/gosips/core"
+	"gitee.com/xppinke/gosips/sip/address"
+	"gitee.com/xppinke/gosips/sip/header"
 )
 
 /** From header parser.

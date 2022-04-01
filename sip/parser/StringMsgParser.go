@@ -3,10 +3,10 @@ package parser
 import (
 	"bytes"
 	"errors"
-	"github.com/use-go/gosips/core"
-	"github.com/use-go/gosips/sip/address"
-	"github.com/use-go/gosips/sip/header"
-	"github.com/use-go/gosips/sip/message"
+	"gitee.com/xppinke/gosips/core"
+	"gitee.com/xppinke/gosips/sip/address"
+	"gitee.com/xppinke/gosips/sip/header"
+	"gitee.com/xppinke/gosips/sip/message"
 	"strings"
 )
 

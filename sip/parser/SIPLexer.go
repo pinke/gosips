@@ -1,7 +1,7 @@
 package parser
 
 import (
-	"github.com/use-go/gosips/core"
+	"gitee.com/xppinke/gosips/core"
 	"strings"
 )
 

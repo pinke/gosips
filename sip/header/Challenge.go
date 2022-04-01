@@ -1,6 +1,6 @@
 package header
 
-import "github.com/use-go/gosips/core"
+import "gitee.com/xppinke/gosips/core"
 
 /**
 * Challenge part of the Auth header. This is only used by the parser interface

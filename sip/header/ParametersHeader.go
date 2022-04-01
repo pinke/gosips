@@ -2,7 +2,7 @@ package header
 
 import (
 	"container/list"
-	"github.com/use-go/gosips/core"
+	"gitee.com/xppinke/gosips/core"
 )
 
 type ParametersHeader interface {

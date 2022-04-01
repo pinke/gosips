@@ -3,7 +3,7 @@ package address
 import (
 	"bytes"
 	"container/list"
-	"github.com/use-go/gosips/core"
+	"gitee.com/xppinke/gosips/core"
 )
 
 /** Telephone number class.

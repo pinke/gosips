@@ -2,7 +2,7 @@ package parser
 
 import (
 	"errors"
-	"github.com/use-go/gosips/core"
+	"gitee.com/xppinke/gosips/core"
 )
 
 const TokenTypes_START = core.CORELEXER_START

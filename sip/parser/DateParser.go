@@ -2,8 +2,8 @@ package parser
 
 import (
 	"errors"
-	"github.com/use-go/gosips/core"
-	"github.com/use-go/gosips/sip/header"
+	"gitee.com/xppinke/gosips/core"
+	"gitee.com/xppinke/gosips/sip/header"
 	"strings"
 	"time"
 )
