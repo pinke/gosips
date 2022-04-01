@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"container/list"
 	"errors"
-	"gitee.com/xppinke/gosips/core"
-	"gitee.com/xppinke/gosips/sip/address"
-	"gitee.com/xppinke/gosips/sip/header"
+	"github.com/pinke/gosips/core"
+	"github.com/pinke/gosips/sip/address"
+	"github.com/pinke/gosips/sip/header"
 	"strings"
 )
 

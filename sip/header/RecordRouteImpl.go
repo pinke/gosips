@@ -2,8 +2,8 @@ package header
 
 import (
 	"bytes"
-	"gitee.com/xppinke/gosips/core"
-	"gitee.com/xppinke/gosips/sip/address"
+	"github.com/pinke/gosips/core"
+	"github.com/pinke/gosips/sip/address"
 )
 
 /** The Request-Route header is added to a request by any proxy that insists on

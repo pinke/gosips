@@ -3,7 +3,7 @@ package header
 import (
 	"bytes"
 	"container/list"
-	"gitee.com/xppinke/gosips/core"
+	"github.com/pinke/gosips/core"
 )
 
 type Lister interface {

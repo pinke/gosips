@@ -6,8 +6,8 @@ import (
 	"errors"
 	"strings"
 
-	"gitee.com/xppinke/gosips/core"
-	"gitee.com/xppinke/gosips/sip/header"
+	"github.com/pinke/gosips/core"
+	"github.com/pinke/gosips/sip/header"
 )
 
 /**

@@ -1,7 +1,7 @@
 package header
 
 import (
-	"gitee.com/xppinke/gosips/core"
+	"github.com/pinke/gosips/core"
 	"strings"
 )
 

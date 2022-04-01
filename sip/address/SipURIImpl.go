@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"container/list"
 	"errors"
-	"gitee.com/xppinke/gosips/core"
+	"github.com/pinke/gosips/core"
 	"strconv"
 	"strings"
 )

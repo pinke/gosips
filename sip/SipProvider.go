@@ -9,8 +9,8 @@
 package sip
 
 import (
-	"gitee.com/xppinke/gosips/sip/header"
-	"gitee.com/xppinke/gosips/sip/message"
+	"github.com/pinke/gosips/sip/header"
+	"github.com/pinke/gosips/sip/message"
 )
 
 /**

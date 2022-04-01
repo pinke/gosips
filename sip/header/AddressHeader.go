@@ -1,7 +1,7 @@
 package header
 
 import (
-	"gitee.com/xppinke/gosips/sip/address"
+	"github.com/pinke/gosips/sip/address"
 )
 
 /**

@@ -2,7 +2,7 @@ package message
 
 import (
 	"container/list"
-	"gitee.com/xppinke/gosips/sip/header"
+	"github.com/pinke/gosips/sip/header"
 )
 
 /**

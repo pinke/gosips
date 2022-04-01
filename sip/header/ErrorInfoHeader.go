@@ -1,6 +1,6 @@
 package header
 
-import "gitee.com/xppinke/gosips/sip/address"
+import "github.com/pinke/gosips/sip/address"
 
 /**
 

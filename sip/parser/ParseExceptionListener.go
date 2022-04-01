@@ -1,6 +1,6 @@
 package parser
 
-import "gitee.com/xppinke/gosips/sip/message"
+import "github.com/pinke/gosips/sip/message"
 
 /**
 * A listener interface that enables customization of parse error handling.

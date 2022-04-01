@@ -2,7 +2,7 @@ package header
 
 import (
 	"bytes"
-	"gitee.com/xppinke/gosips/core"
+	"github.com/pinke/gosips/core"
 	"strconv"
 )
 

@@ -2,7 +2,7 @@ package header
 
 import (
 	"container/list"
-	"gitee.com/xppinke/gosips/core"
+	"github.com/pinke/gosips/core"
 )
 
 type ParametersHeader interface {
